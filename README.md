@@ -1,7 +1,15 @@
-# Vue 3 + Vite
+# Vuetify 3 + Vue Draggable
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Overview
 
-## Recommended IDE Setup
+A small proof of concept getting [Vue Draggable](https://github.com/SortableJS/vue.draggable.next) to work with Vuetify 3's [list-group component](https://next.vuetifyjs.com/en/api/v-list-group/)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+## Getting Started
+
+```
+npm i
+```
+
+```
+npm run dev
+```

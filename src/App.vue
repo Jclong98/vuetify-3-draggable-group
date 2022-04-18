@@ -73,7 +73,7 @@ const groups = ref([
           <v-spacer></v-spacer>
           <v-btn
             icon="mdi-github"
-            to="https://github.com/jclong98/vuetify3-draggable-group"
+            href="https://github.com/jclong98/vuetify-3-draggable-group"
           ></v-btn>
         </v-card-actions>
       </v-card>
